@@ -151,7 +151,7 @@ Please cite this work as:
 
 ```bibtex
 @misc{thompson2023mwccmatrix,
-      title={MWccMatrix: The Web is Surprisingly Multi-Way Paralle}, 
+      title={MWccMatrix: The Web is Surprisingly Multi-Way Parallel}, 
       author={Thompson, Brian and Dhaliwal, Mehak Preet and Frisch, Peter and Domhan, Tobias and Federico, Marcello},
       year={2023}
 }
