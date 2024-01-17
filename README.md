@@ -147,13 +147,15 @@ pip install spacy==3.6.1  # MIT, https://github.com/explosion/spaCy
 
 ## Citation
 
-Please cite this work as:
+If you use this work, please cite our [paper](https://arxiv.org/abs/2401.05749):
 
 ```bibtex
-@misc{thompson2023mwccmatrix,
-      title={MWccMatrix: The Web is Surprisingly Multi-Way Parallel}, 
-      author={Thompson, Brian and Dhaliwal, Mehak Preet and Frisch, Peter and Domhan, Tobias and Federico, Marcello},
-      year={2023}
+@article{thompson2024mwccmatrix,
+    title={A Shocking Amount of the Web is Machine Translated: Insights from Multi-Way Parallelism}, 
+    author={Brian Thompson and Mehak Preet Dhaliwal and Peter Frisch and Tobias Domhan and Marcello Federico},
+    year={2024},
+    journal={arXiv preprint arXiv:2401.05749},
+    url={https://arxiv.org/abs/2401.05749}
 }
 ```
 
